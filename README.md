@@ -22,7 +22,10 @@ Node.js is a server base application that can stores and process user informatio
     - Globally Scooped API. 
     - Test Data and process javaScript. 
 
-![]()
+```
+
+***Figure One***
+![processArgv](./media/processArgv.gif)
 
 
 
