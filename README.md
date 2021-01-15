@@ -14,13 +14,13 @@ Node.js is a server base application that can stores and process user informatio
 
 ```
 
-## Running Node and process.argv 
+## Running node.js and learning process.argv 
 
-> process.argv happens when you run node.js in your terminal. 
-
-> Globally Scooped API 
-
-> Test Data and process javaScript 
+```
+    - type node "file name" -> node app.js.
+    - process.argv happens when you run any node file. 
+    - Globally Scooped API. 
+    - Test Data and process javaScript. 
 
 ![]()
 
