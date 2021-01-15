@@ -17,7 +17,9 @@ Node.js is a server base application that can stores and process user informatio
 ## Running Node and process.argv 
 
 > process.argv happens when you run node.js in your terminal. 
+
 > Globally Scooped API 
+
 > Test Data and process javaScript 
 
 ![]()
