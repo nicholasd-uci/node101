@@ -43,9 +43,11 @@ Node.js is a server base application that can stores and process user informatio
     - require: Imports a file and executes that code when being called.             Ex --> let var = require('./fileName.js')
 ```
 ***Exporting Figure***
+
 ![pets](./media/pets.PNG)
 
 ***Importing Figure***
+
 ![app](./media/app.PNG)
 
 
