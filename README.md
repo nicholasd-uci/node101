@@ -6,11 +6,10 @@ Node.js is a server base application that can stores and process user informatio
 ## What is Node.js?
 
 ```
-    -
-    -
-    -
-    -
-    -
+    - Open-source platform 
+    - Back-end JS runtime environment 
+    - Executes JavaScript code outside the browser
+    - Produces dynamic web page content prior to the user seeing it
 
 ```
 
