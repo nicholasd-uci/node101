@@ -39,7 +39,8 @@ Node.js is a server base application that can stores and process user informatio
 ## Exporting and Importing Modules
 
 ```
-
+    - Module.export: Exports out a file and render's it's code when called.         Ex --> module.exports = [x,y]
+    - require: Imports a file and executes that code when being called.             Ex --> let var = require('./fileName.js')
 ```
 
 ![]()
