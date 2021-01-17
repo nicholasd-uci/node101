@@ -46,7 +46,6 @@ Node.js is a server base application that can stores and process user informatio
 
 ## LINKS
 
-- [node101 Link]()
 - [GitHub Repo Link](https://github.com/nicholasd-uci/node101)
 - [Nicholas Dallas GitHub](https://github.com/nicholasd-uci)
 
