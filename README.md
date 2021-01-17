@@ -1,7 +1,7 @@
 # node101
 
 ## About
-Node.js is a server base application that can stores and process user information. In this lesson we go over several examples on how to manipulate  data in a server.
+Node.js is a server base application that can stores and process user information. In this lesson we go over several examples on how to manipulate data in a server.
 
 ## What is Node.js?
 
@@ -20,17 +20,29 @@ Node.js is a server base application that can stores and process user informatio
     - type node "file name" -> node app.js.
     - process.argv happens when you run any node file. 
     - Globally Scooped API. 
-    - Test Data and process javaScript. 
+    - Test Data and processes javaScript. 
 
 ```
 
 ***Figure One***
 ![processArgv](./media/processArgv.gif)
 
+***Figure Two***
+![consoleLogTerm](./media/consoleLogTerm.PNG)
 
 ## calc.js File
 
+> Node can also do math 
 
+![calc](./media/calc.js.PNG)
+
+## Exporting and Importing Modules
+
+```
+
+```
+
+![]()
 
 ## LINKS
 
